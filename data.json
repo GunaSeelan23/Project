@@ -1,0 +1,129 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "email": "guna@123",
+      "password": "@123"
+    }
+  ],
+  "productlist": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "details": "A1 Quality",
+      "image": "apple.jpeg",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "details": "A1 Quality",
+      "image": "orange.jpeg",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "name": "Mango",
+      "details": "A1 Quality",
+      "image": "Mango.jpeg",
+      "price": 80
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "details": "A1 Quality",
+      "image": "pineapple.jpeg",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Guava",
+      "details": "A1 Quality",
+      "image": "guava3.jpeg",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "name": "Blueberry",
+      "details": "A1 Quality",
+      "image": "blueberry.jpeg",
+      "price": 250
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "details": "A1 Quality",
+      "image": "strawberry.jpeg",
+      "price": 200
+    }
+  ],
+  "cart": [
+    {
+      "id": 6,
+      "name": "Blueberry",
+      "details": "A1 Quality",
+      "image": "blueberry.jpeg",
+      "price": 250
+    },
+    {
+      "id": 5,
+      "name": "Guava",
+      "details": "A1 Quality",
+      "image": "guava3.jpeg",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "name": "Pineapple",
+      "details": "A1 Quality",
+      "image": "pineapple.jpeg",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "name": "Strawberry",
+      "details": "A1 Quality",
+      "image": "strawberry.jpeg",
+      "price": 200
+    }
+  ],
+  "orderlist": [
+    {
+      "customername": "Guna",
+      "mobile": "8765432456",
+      "email": "hungfd@gmail.com",
+      "address": "Thanjavur",
+      "myorder": [
+        {
+          "id": 6,
+          "name": "Blueberry",
+          "details": "A1 Quality",
+          "image": "blueberry.jpeg",
+          "price": 250
+        },
+        {
+          "id": 5,
+          "name": "Guava",
+          "details": "A1 Quality",
+          "image": "guava3.jpeg",
+          "price": 60
+        },
+        {
+          "id": 4,
+          "name": "Pineapple",
+          "details": "A1 Quality",
+          "image": "pineapple.jpeg",
+          "price": 100
+        },
+        {
+          "id": 7,
+          "name": "Strawberry",
+          "details": "A1 Quality",
+          "image": "strawberry.jpeg",
+          "price": 200
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
